@@ -1,1 +1,3 @@
 Sa numra n janë që kanë n shifra? (n element i N)
+
+Zgjidhje: Vetem numri 1
